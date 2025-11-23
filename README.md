@@ -39,6 +39,8 @@ No GitHub, publico projetos reais que desenvolvo ao longo da faculdade e dos meu
 
 ## 🤖 Tecnologias em Estudo
 
+<img align="left" alt="C++" title="C++" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+
 <img align="left" alt="Java" title="Java" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 
 <img align="left" alt="Python" title="Python" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
