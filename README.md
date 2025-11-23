@@ -38,7 +38,7 @@ No GitHub, publico projetos reais que desenvolvo ao longo da faculdade e dos meu
 
 <img align="left" alt="Golang" title="Golang" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
 
-<img align="left" alt="AWS" title="AWS" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img align="left" alt="AWS" title="AWS" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg"/>
 
 <img align="left" alt="HTML" title="HTML" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 
