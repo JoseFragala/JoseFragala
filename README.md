@@ -26,6 +26,13 @@ No GitHub, publico projetos reais que desenvolvo ao longo da faculdade e dos meu
             src="https://custom-icon-badges.demolab.com/github/followers/JoseFragala?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/josé-fragalá/" target="_blank">
+    <img 
+        alt="LinkedIn" 
+        title="Visite meu LinkedIn" 
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>
 </p>
 
 ---
