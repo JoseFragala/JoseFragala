@@ -1,31 +1,18 @@
 # **José Fernando Fragalá Neto**
 
-`Estudante de ADS | Focado em IA & Desenvolvimento`
+`Estudante de ADS | Focado em backend, cloude e data.
 
-Me chamo **José Fernando Fragalá Neto**. Atuei por anos nas áreas administrativa, financeira e de suporte técnico em TI, desenvolvendo competências em organização de processos, análise de dados, documentação e resolução de problemas. Também tenho formação e experiência prática em Educação Física, o que consolidou minha disciplina, foco em saúde e capacidade de adaptação — inclusive atuando como coordenador técnico.
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, onde tenho direcionado meus estudos para **Inteligência Artificial**, automações e construção de soluções práticas. Recentemente iniciei um **bootcamp de JAVA + AWS**, buscando ampliar meu repertório em cloud, agentes, modelos generativos e boas práticas de desenvolvimento.
-No GitHub, publico projetos reais que desenvolvo ao longo da faculdade e dos meus estudos — incluindo automações, IA aplicada e sistemas utilitários para o dia a dia.
+Durante meus estudos, tive contato com tecnologias e ferramentas como SQL, Apache Spark, Power BI, Python, Java, Git e GitHub, além de fundamentos de arquitetura em nuvem, análise de dados e versionamento de código. Sou certificado Microsoft Azure Fundamentals (A-900) e atualmente estou em preparação para a certificação Microsoft Azure Data Fundamentals (DP-900), aprofundando meus conhecimentos em plataformas de dados, analytics e serviços de dados em nuvem.
+
+Em programação, tenho experiência com Java por meio de bootcamp da DIO, contato acadêmico introdutório com C++, e utilizo Python em um projeto pessoal, onde desenvolvo um sistema de replay esportivo.
+
+Meu objetivo é evoluir como desenvolvedor, fortalecer meus fundamentos em cloud, banco de dados, análise de dados e programação, conquistar novas certificações e avançar para minha primeira oportunidade profissional no mercado de tecnologia.
 
 ---
 
 ## 🔗 Redes e Métricas
 
 <p align="left">
-    <a href="https://github.com/JoseFragala?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JoseFragala?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-
-   <a href="https://github.com/JoseFragala?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/JoseFragala?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
     <a href="https://www.linkedin.com/in/josé-fragalá/" target="_blank">
     <img 
         alt="LinkedIn" 
@@ -39,15 +26,20 @@ No GitHub, publico projetos reais que desenvolvo ao longo da faculdade e dos meu
 
 ## 🤖 Tecnologias em Estudo
 
-<img align="left" alt="C++" title="C++" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Java" title="Java" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-<img align="left" alt="Java" title="Java" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="Python" title="Python" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-<img align="left" alt="AWS" title="AWS" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg"/>
+<img align="left" alt="Azure" title="Azure" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 
-<img align="left" alt="SQL" title="SQL" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="SQL" title="SQL" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-<img align="left" alt="PL/SQL" title="PL/SQL" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
+<img align="left" alt="Power BI" title="Power BI" width="38px" style="padding-right:10px" src="https://img.icons8.com/color/48/power-bi.png"/>
+
+<img align="left" alt="Apache Spark" title="Apache Spark" width="38px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/>
+
+<img align="left" alt="Git" title="Git" width="38px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
 
 <br/><br/>
 
