@@ -96,12 +96,12 @@ Features include:
 <p>
 
 <img
-align="left"
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=JoseFragala&show_icons=true&theme=tokyonight"/>
+  height="180"
+  src="https://github-readme-stats-fragala.vercel.app/api?username=JoseFragala&show_icons=true&theme=tokyonight"
+/>
 
 <img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFragala&layout=compact&theme=tokyonight"/>
-
+  height="180"
+  src="https://github-readme-stats-fragala.vercel.app/api/top-langs/?username=JoseFragala&layout=compact&theme=tokyonight"
+/>
 </p>
