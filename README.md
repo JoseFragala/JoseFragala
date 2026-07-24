@@ -93,15 +93,13 @@ Features include:
 
 ## 📈 GitHub Stats
 
-<p>
-
-<img
-  height="180"
-  src="https://github-readme-stats-fragala.vercel.app/api?username=JoseFragala&show_icons=true&theme=tokyonight"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats-fragala.vercel.app/api/top-langs/?username=JoseFragala&layout=compact&theme=tokyonight"
-/>
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats-fragala.vercel.app/api?username=JoseFragala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=3"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-fragala.vercel.app/api/top-langs/?username=JoseFragala&layout=compact&theme=tokyonight&hide_border=true&v=3"
+  />
 </p>
