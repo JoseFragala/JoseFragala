@@ -6,8 +6,6 @@ I'm an Analysis and Systems Development (ADS) student focused on backend develop
 
 Currently I'm building Java applications with Spring Boot while expanding my knowledge in software architecture, REST APIs, relational databases and cloud services.
 
-I enjoy designing practical solutions that combine software development, automation and cloud technologies.
-
 ---
 
 ## 🚀 Featured Projects
