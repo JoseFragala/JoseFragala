@@ -89,17 +89,3 @@ Features include:
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-fragalá/)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats-fragala.vercel.app/api?username=JoseFragala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=3"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats-fragala.vercel.app/api/top-langs/?username=JoseFragala&layout=compact&theme=tokyonight&hide_border=true&v=3"
-  />
-</p>
